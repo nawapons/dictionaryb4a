@@ -16,7 +16,7 @@ A simple dictionary app built with B4A that connects to a Node.js server and a M
  
 ## Getting Started
   1. Clone the repository:
- ```$ git clone https://github.com/[your_username]/B4A-Dictionary-App.git ```
+ ```$ git clone https://github.com/nawapons/dictionaryb4a.git ```
   2. Open the api folder in Vscode and edit the following variables in the Main module:
  ```host - The URL of your mysql server
 username - The username for your MySQL database
