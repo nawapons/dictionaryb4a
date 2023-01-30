@@ -31,3 +31,13 @@ $ npm run dev
  
 ## Contributing
 If you would like to contribute to this project, please create a pull request.
+
+## Screenshots
+![Screenshot_2023-01-30-19-48-23-437_b4a dictionaries](https://user-images.githubusercontent.com/88156106/215482024-8f90d5a6-433b-480e-a189-758583051975.jpg)
+
+![Screenshot_2023-01-30-19-48-35-907_b4a dictionaries](https://user-images.githubusercontent.com/88156106/215482058-74497ea2-6a97-44ba-a9cf-270b4913054b.jpg)
+
+![Screenshot_2023-01-30-19-48-41-093_b4a dictionaries](https://user-images.githubusercontent.com/88156106/215482156-4ec6f539-9c07-4563-876c-a6f4ae4102ca.jpg)
+
+![Screenshot_2023-01-30-19-48-50-360_b4a dictionaries](https://user-images.githubusercontent.com/88156106/215482232-bbd95697-333a-4c13-8682-99831c6f7c07.jpg)
+
