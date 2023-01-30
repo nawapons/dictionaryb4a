@@ -28,7 +28,11 @@ database - The name of your MySQL database
 $ npm run dev
 ```
  4. Build and run the B4A app on your device or emulator.
- 
+
+## About API_KEY
+ I use api from pixabay to generate pictures from dictionary words so you must register in website pixabay and get api key
+ then put it to server.js
+
 ## Contributing
 If you would like to contribute to this project, please create a pull request.
 
