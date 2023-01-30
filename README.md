@@ -21,8 +21,9 @@ A simple dictionary app built with B4A that connects to a Node.js server and a M
  ```host - The URL of your mysql server
 username - The username for your MySQL database
 password - The password for your MySQL database
-database - The name of your MySQL database ```
- 3. In the Node.js server, run the following commands to start the server:
+database - The name of your MySQL database 
+```
+  3. In the Node.js server, run the following commands to start the server:
  ```$ npm install
 $ npm run dev
 ```
