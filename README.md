@@ -1,4 +1,4 @@
-#B4A Dictionary App
+B4A Dictionary App
 A simple dictionary app built with B4A that connects to a Node.js server and a MySQL database.
 
 ##Features
